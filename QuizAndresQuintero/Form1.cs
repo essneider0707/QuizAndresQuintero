@@ -56,7 +56,7 @@ namespace QuizAndresQuintero
             if (rbnBasico.Checked == true)
             {
                 costo = costo + 50000;
-                cotizacion += "Lleva seguro basico de  50000 \r\n ";
+                cotizacion += "Lleva seguro basico de  500000 \r\n ";
                    
             }
             if (rbnTerceros.Checked == true)
